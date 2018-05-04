@@ -5,7 +5,7 @@
   "version": "0.0.3",
   "repository": {
     "type": "git",
-    "url": "git://github.com/skomski/node-pagerduty.git"
+    "url": "git://github.com/dkarpman/node-pagerduty.git"
   },
   "main": "./index",
   "scripts" : {
