@@ -8,13 +8,14 @@
     "url": "git://github.com/dkarpman/node-pagerduty.git"
   },
   "main": "./index",
-  "scripts" : {
-    "test" : "coffee test/test-PagerDuty.coffee"
+  "scripts": {
+    "test": "coffee test/test-PagerDuty.coffee"
   },
   "engines": {
     "node": "*"
   },
   "dependencies": {
+    "coffeescript": "^2.3.0",
     "request": "~2.9.3"
   },
   "devDependencies": {
